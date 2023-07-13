@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Welcome.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Sample Topics/EditingMasterPage.htm" />
+  <TocEntry
+    Title="Product A">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Products/Product A/Article1.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Products/Product A/Article2.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Products/Product A/Article3.htm" />
+  </TocEntry>
+</CatapultToc>
