@@ -14,12 +14,12 @@
     Title="Product A">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/RENAMED/Article1.htm" />
+      Link="/Content/Products/TEST/Article1.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/RENAMED/Article2.htm" />
+      Link="/Content/Products/TEST/Article2.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/RENAMED/Article3.htm" />
+      Link="/Content/Products/TEST/Article3.htm" />
   </TocEntry>
 </CatapultToc>
