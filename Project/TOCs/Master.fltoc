@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -14,12 +14,12 @@
     Title="Product A">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/TEST/Article1.htm" />
+      Link="/Content/Products/Product A/Article1.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/TEST/Article2.htm" />
+      Link="/Content/Products/Product A/Article2.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/TEST/Article3.htm" />
+      Link="/Content/Products/Product A/Article3.htm" />
   </TocEntry>
 </CatapultToc>
